@@ -12,5 +12,5 @@ The required files for running this program are:
 
 # Requirements
 The program was scripted using Python (version 3.10.9) and depends on the following libraries:
-1- pandas==1.5.3
-2- numpy==1.23.5
+1- pandas=1.5.3
+2- numpy=1.23.5
